@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "node_toy_express"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
   }
 }
